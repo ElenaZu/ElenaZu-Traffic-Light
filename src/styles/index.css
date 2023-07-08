@@ -10,3 +10,28 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.cable{
+    height: 15vh;
+    width: 2%;
+    margin: auto;
+}
+
+.traffic-light-bg{
+    height: 65vh;
+    width: 18%;
+    margin: auto;   
+    padding: 1%;
+}
+
+.light{
+    width: 67%;
+    margin: auto;
+    height: 20vh;
+    margin-bottom: 2%;
+}
+
+.glow-Effect{
+    -webkit-box-shadow:0px 0px 105px 45px rgba(252,255,46,0.9);
+    -moz-box-shadow: 0px 0px 105px 45px rgba(252,255,46,0.9);
+    box-shadow: 0px 0px 105px 45px rgba(252,255,46,0.9);
+}
